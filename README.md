@@ -431,7 +431,7 @@ Within 5 minutes you should see:
 [Information] Executed 'Functions.check_website' (Succeeded, Duration=328ms)
 ```
 
-📸 **Screenshot to include:** Log stream showing successful execution with `PASS` result and `Response status: 204` from Table Storage.
+![Log Stream](assets/app-insights.jpg)
 
 ### Check 2 — Query Table Storage
 
@@ -472,7 +472,7 @@ daneondemand.com   20260603000500   198          PASS     https://daneondemand.c
 daneondemand.com   20260603001000   241          PASS     https://daneondemand.com
 ```
 
-📸 **Screenshot to include:** Table query output showing multiple rows with `Status = PASS`.
+![Table Storage Query](assets/vs-code-table.jpg)
 
 ### Verification Checklist
 
