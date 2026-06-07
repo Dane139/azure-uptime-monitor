@@ -1,6 +1,6 @@
 # 🟢 Azure Website Uptime Monitor
 
-> 📹 **Walkthrough Video:** _[Loom video coming soon — link will be added here]_
+ 📹 **Walkthrough Video:** [Watch the full walkthrough on Loom](https://www.loom.com/share/00195e0117ab4a9383f7bdf3aa0c50ad)
 
 A production-grade, automated website monitoring system built entirely on Azure. Checks a target website every 5 minutes for availability, response time, and content validity — and fires email + SMS alerts within seconds of any failure. All infrastructure is deployed as code using Terraform.
 
